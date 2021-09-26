@@ -15,15 +15,3 @@ ul li {
   grid-template-columns: 2fr 10fr;
   gap: 10px;
 }
-.header {
-  grid-area: h;
-  background: lightgoldenrodyellow;
-}
-.nav {
-  grid-area: n;
-  background: lightcyan;
-}
-.main {
-  grid-area: c;
-  background: cadetBlue;
-}

@@ -1,0 +1,7 @@
+.nav {
+  grid-area: n;
+  background: lightcyan;
+}
+.item {
+  color: #999;
+}
